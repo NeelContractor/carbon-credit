@@ -1,5 +1,5 @@
-import { DashboardFeature } from '@/components/dashboard/dashboard-feature'
+import CarbonCredit from '@/components/carbon/CarbonCredit'
 
 export default function Home() {
-  return <DashboardFeature />
+  return <CarbonCredit />
 }
